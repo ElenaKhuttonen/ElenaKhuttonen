@@ -9,8 +9,8 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/ElenaKhuttonen/portfolio_/blob/main/CheckList.pdf)
-- [Test-Suites and Test-Cases](https://github.com/ElenaKhuttonen/portfolio_/blob/main/TestCases.pdf)
-- [Bug-Reports](https://github.com/ElenaKhuttonen/portfolio_/blob/main/BugReport.pdf)
-- [SQL Queries](https://github.com/ElenaKhuttonen/portfolio_/blob/main/SQL_Examples.pdf)
-- [Postman Collections](https://github.com/ElenaKhuttonen/portfolio_/blob/main/TestCasesAPI.json)
+- [Checklists](https://github.com/ElenaKhuttonen/Checklists)
+- [Test-Suites and Test-Cases](https://github.com/ElenaKhuttonen/TestCases)
+- [Bug-Reports](https://github.com/ElenaKhuttonen/Bug_Report)
+- [SQL Queries](https://github.com/ElenaKhuttonen/SQL-Queries)
+- [Postman Collections](https://github.com/ElenaKhuttonen/TestCases_API)
