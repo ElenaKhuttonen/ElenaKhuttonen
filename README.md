@@ -1,3 +1,8 @@
+### Здравствуйте!
+## Меня зовут Елена, я начинающий мануальный тестировщик.
+## В настоящее время прохожу обучение в онлайн-университете SkyPro
+
+
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1WxXPfxeneMhwS_dxKFLq78zBiNaQdEi0/view?usp=sharing)
 
