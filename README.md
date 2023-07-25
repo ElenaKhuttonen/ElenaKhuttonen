@@ -2,7 +2,7 @@
 #### Меня зовут Елена, я начинающий мануальный тестировщик.
 #### В настоящее время прохожу обучение в онлайн-университете SkyPro
 
-##Навыки и технологии
+## Навыки и технологии
 - TMS: ``Qase.io``,  ``Azure DevOps``
 - Bug Tracking System: ``Jira``
 - Database Management: ``MySQL``, ``PostgreSQL``
@@ -14,8 +14,8 @@
 
 
 ### Проекты
-#Тестирование веб-приложения для учителей онлайн-университета SkyPro
-##Тестовая документация: 
+# Тестирование веб-приложения для учителей онлайн-университета SkyPro
+## Тестовая документация: 
 - [Checklists](https://github.com/ElenaKhuttonen/Checklists)
 - [Test-Suites and Test-Cases](https://github.com/ElenaKhuttonen/TestCases)
 - [Bug-Reports](https://github.com/ElenaKhuttonen/Bug_Report)
