@@ -14,8 +14,8 @@
 
 
 ### Проекты
-# Тестирование веб-приложения для учителей онлайн-университета SkyPro
-## Тестовая документация: 
+#### Тестирование веб-приложения для учителей онлайн-университета SkyPro
+#### Тестовая документация: 
 - [Checklists](https://github.com/ElenaKhuttonen/Checklists)
 - [Test-Suites and Test-Cases](https://github.com/ElenaKhuttonen/TestCases)
 - [Bug-Reports](https://github.com/ElenaKhuttonen/Bug_Report)
